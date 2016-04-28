@@ -1,4 +1,4 @@
-# 作って理解するLaravelのFacades
+# 作って理解した気になるLaravelのFacades
 LaravelのFacadeの理解を深めるための簡易再現コード
 
 * Step01. ファサード
@@ -22,6 +22,8 @@ LaravelのFacadeの理解を深めるための簡易再現コード
     > php step03.php
     > php step04.php
     > php step05.php
+
+それぞれのファイルの冒頭に簡単な解説を記載しています。
 
 ## ライセンス
 MIT License.
