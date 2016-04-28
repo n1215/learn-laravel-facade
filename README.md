@@ -1,10 +1,10 @@
-# 作って理解した気になるLaravelのFacades
+# 自作して理解した気になるLaravelのFacades
 LaravelのFacadeの理解を深めるための簡易再現コード
 
 * Step01. ファサード
 * Step02. サービスコンテナ
 * Step03. ファサードとサービスコンテナ
-* Step04. サービスコンテナ
+* Step04. サービスプロバイダ
 * Step05. さよならファサード
 
 ## 環境
